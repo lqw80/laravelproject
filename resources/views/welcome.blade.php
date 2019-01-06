@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    我操！
+                    我操！！
                 </div>
 
                 <div class="links">
