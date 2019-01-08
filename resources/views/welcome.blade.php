@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    我操！！
+                    在线评测系统for WZVTC
                 </div>
 
                 <div class="links">
